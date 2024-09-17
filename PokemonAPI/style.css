@@ -1,0 +1,12 @@
+.Flex-containetr{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input-container{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
